@@ -91,7 +91,12 @@ It includes details such as:
 🔹 Top actors include *Anupam Kher* and *Shah Rukh Khan*
 
 ---
+## 🔗 Live Dashboard
 
+Click the link below to view the interactive Power BI dashboard:
+
+👉 [View Dashboard on Power BI](https://app.powerbi.com/reportEmbed?reportId=8953f947-0eb2-4ee5-ad7b-c6fe2d4f4605&autoAuth=true&ctid=77255288-5298-4ea5-81aa-a13e604c30ac)
+---
 ## 🙋‍♀️ About Me
 
 **Amany Saeed**  
